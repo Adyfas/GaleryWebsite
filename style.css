@@ -83,6 +83,8 @@ section{
 
 .awal{
     background-image: url('./assets/mountain-8451604_1280.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 section .intro-teks h1{
